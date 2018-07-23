@@ -5,7 +5,7 @@
 ### motor_dc_xbox.py:
 Código que contém o programa base do carrinnho
 
-### >Diretório auxiliares:
+### Diretório auxiliares:
 Códigos desenvolvidos por mim para utilizar todos os sensores já estudados por mim
 
 ### Diretório DHT11_Python:
